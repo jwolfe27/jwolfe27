@@ -2,11 +2,11 @@
 
 
 # Jake Wolfe
-I'm Jake Wolfe from Melbourne Florida, and I'm into taking very large sets of data and breaking them down to tell their story. I really enjoy working with Python, SQL, HTML5/CSS and Javascript, just to name a few. I've been working on some projects that you may find interesting, the links are below.  Feel free to have a look around!!  My goal is to help drive business decisions that not only promote growth of the company and team, they guarantee it.
+Hi, I'm Jake Wolfe from Melbourne Florida, and I'm into taking very large sets of data and breaking them down to tell their story. I really enjoy working with Python, SQL, HTML5/CSS and Javascript, just to name a few. I've been working on some projects that you may find interesting, the links are below.  Feel free to have a look around!!  My goal is to help drive business decisions that not only promote growth of the company and team, they guarantee it.
 
-When I'm not diving into data I am a husband to a beautiful wife, and father to two beautiful children.  THey are the biggest inspriations in my life. I also enjoy the outdoors, traveling and spending time with friends and family.
+When I'm not diving into data I am a husband to a beautiful wife, and father to two beautiful children.  They are the biggest inspirations in my life. I also enjoy the outdoors, traveling and spending time with family and friends.
 
-# Skill and Experience
+# Skills and Experience
 * 💻Python, SQL, R, VBA, API Interactions, HTML5/CSS, Tableau
 * ⚙️PostgreSQL, MongoDB, ETL
 * 🖥️PgAdmin, Jupyter Notebook, Visual Basic Studio, R Studio, Google Colab
