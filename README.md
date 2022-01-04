@@ -4,9 +4,10 @@ I'm Jacob Wolfe from Melbourne Florida, and I'm into taking large sets of data a
 When I'm not diving into data I am a husband to a beautiful wife, and father to two beautiful children.  THey are the biggest inspriations in my life. 
 
 # Skill and Experience
-* 💻Python
-* ⚙️SQL/PostgreSQL
-* 🖥️HTML, CSS, JS
+* 💻Python, SQL, R, VBA, API Interactions, HTML5/CSS, Tableau
+* ⚙️PostgreSQL, MongoDB, ETL
+* 🖥️PgAdmin, Jupyter Notebook, Visual Basic Studio, R Studio, Google Colab
+
 
 # Examples of Work
 <img src="https://user-images.githubusercontent.com/89044350/142674629-ed437f72-d8e4-4cbe-8d39-73983acaa9d9.gif" width="250">
@@ -16,3 +17,7 @@ When I'm not diving into data I am a husband to a beautiful wife, and father to 
 <img src="https://user-images.githubusercontent.com/89044350/143083961-eca879c5-4477-415d-aa86-93c24a5d4a55.gif" width="250">
 
 [NYC CitiBike Analysis](https://github.com/jwolfe27/bikesharing)
+
+# My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwolfe27)](https://github.com/anuraghazra/github-readme-stats)
+
