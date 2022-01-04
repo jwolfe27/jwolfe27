@@ -18,7 +18,7 @@ Click Here [Mapping Earthquakes](https://github.com/jwolfe27/Mapping_Earthquakes
 
 Click Here [NYC CitiBike Analysis](https://github.com/jwolfe27/bikesharing)
 
-<img src="https://user-images.githubusercontent.com/89044350/141866570-c98796e1-056c-4286-8aab-9de242ed8a2f.JPG" width="250">
+<img src="https://user-images.githubusercontent.com/89044350/148108950-7141bb3f-9cce-46de-8b6e-966e1f8f157d.gif" width="250">
 
 Click Here [PlotLy Belly Button Biodiversity](https://github.com/jwolfe27/Plotly_BellyButton_Challenge/blob/main/README.md)
 
