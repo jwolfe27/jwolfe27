@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/89044350/148823310-530f6ede-dfe6-48b6-b0d8-d3f2881ab619.JPG">
+
+
 # About Me
 Hi. I'm Jake Wolfe from Melbourne Florida, and I'm into taking very large sets of data and breaking them down to tell their story. I really enjoy working with Python, SQL, HTML5/CSS and JavaScript, just to name a few. I've been working on some projects that you may find interesting; the links are below.  Feel free to have a look around!  My goal is to help drive business decisions that not only promote growth of the company and team, they guarantee it.
 
